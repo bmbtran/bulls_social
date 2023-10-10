@@ -1,0 +1,48 @@
+const locationsData = [
+    {
+        id: 1,
+        name: "MSC",
+        address: "1234 Main St",
+        city: "New York",
+        state: "NY",
+        zip: "10001",
+        image: "https://www.usf.edu/student-affairs/msc/images/msc-plaza-top.jpg",
+      },
+      {
+        id: 2,
+        name: "Library",
+        address: "3456 Main St",
+        city: "Tampa",
+        state: "FL",
+        zip: "33612",
+        image: "https://lib.usf.edu/scholarships-research-awards/wp-content/uploads/sites/57/2021/09/tampa-library.jpg",
+      },
+      {
+        id: 3,
+        name: "ENB",
+        address: "789 Main St",
+        city: "Tampa",
+        state: "FL",
+        zip: "33612",
+        image: "https://fastly.4sqi.net/img/general/600x600/37825186_lNuJSoFb3pUI5UkZRz0kR7aAR4cbp0G1RfH2qNCkyAo.jpg",
+      },
+      {
+        id: 4,
+        name: "ENC",
+        address: "111 Main St",
+        city: "Tampa",
+        state: "FL",
+        zip: "33612",
+        image: "https://www.usf.edu/engineering/student-services/images/teco-hall.jpg",
+      },
+      {
+        id: 5,
+        name: "Muma",
+        address: "11111 Main St",
+        city: "Tampa",
+        state: "FL",
+        zip: "33612",
+        image: "https://catalog.usf.edu/mime/media/16/3696/2021-22%20COB.jpg",
+      },
+    ];
+    export default locationsData;
